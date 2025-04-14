@@ -1,0 +1,15 @@
+.fade
+{
+ color:grey;
+ font-size: 20px;
+}
+.result{
+    font-size: 16px;
+}
+.highlight{
+    font-size: 24px;
+}
+
+.dropdown{
+    width:70%;
+}
